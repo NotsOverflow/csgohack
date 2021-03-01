@@ -1,5 +1,6 @@
 # csgohack
 
-find cs go and make people visible throw walls
+Simple wallhack for CSGO
 
-> next step is to inject a driver to hide it and use only non intrusive techniques
+> edit running game memory to display players through walls
+![csgo](csgo.jpg)
