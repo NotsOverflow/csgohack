@@ -4,4 +4,4 @@ Simple wallhack for CSGO
 
 > edit running game memory to display players through walls
 
-![csgo](csgo.jpg)
+![csgo](csgohack.jpg)
